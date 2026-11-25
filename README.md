@@ -5,10 +5,22 @@ An interactive two-page dark-mode Power BI report analyzing Supply Chain Managem
 ## Dashboard Preview
 
 ### Page 1: Executive Overview
+
+<details>
+<summary>🔍 Click here to view Executive Overview</summary>
+    
 ![Executive Overview](images/01_executive_overview.png)
 
+</details>
+
 ### Page 2: Vendor & Cost Analysis
+
+<details>
+<summary>🔍 Click here to view Vendor & Cost Analysis</summary>
+    
 ![Vendor & Cost Analysis](images/02_vendor_cost_analysis.png)
+
+</details>
 
 ## Key Pages & Visuals
 
